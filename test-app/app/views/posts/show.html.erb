@@ -1,0 +1,16 @@
+<% content_for :head do %>
+	<%= javascript_include_tag "posts.js" %>
+<% end %>
+
+<div class="container">
+	<h1>Posts Page</h1>
+	<h2>Create a new Post</h2>
+	<textarea></textarea>
+	<div class="push"></div>
+	<button>Create</button>
+	<h2>User Posts</h2>
+	<div class="post-container">
+		<%= render :partial => 'posts/user_post' %>
+	</div><!--post container-->
+</div><!--container-->
+

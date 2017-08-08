@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/test-app":{"guestpath":"/home/vagrant/test-app","hostpath":"/Users/katymorris/Documents/Personal-Development/rails-dynamic-partials/test-app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/katymorris/Documents/Personal-Development/rails-dynamic-partials","disabled":false,"__vagrantfile":true}}}
